@@ -12,7 +12,7 @@ Despite its capabilities, DALL-E 3 has several limitations. The model's outputs 
 
 > Alex: *"DALL-E 3 is an excellent image generation tool for product design, vehicle design, house design and much more."*
 
-> *"Some iamges need to be photoshopped."*
+> *"Some images need to be photoshopped."*
 
 #
 ### Related Links
