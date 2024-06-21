@@ -1,4 +1,4 @@
-![DALL-E 3](https://github.com/sourceduty/DALL-E_3/assets/123030236/b08f1e54-fb09-4b96-b195-549eb8591c00)
+![Old DALL·E 3 Sign](https://github.com/sourceduty/DALL-E_3/assets/123030236/2b91d102-4673-4662-a51b-b42ff5cf9366)
 
 DALL-E 3 is the latest iteration of OpenAI's text-to-image generation model, building on the capabilities of its predecessors. Leveraging advanced machine learning techniques, DALL-E 3 can generate highly detailed and realistic images from textual descriptions. This model enhances creativity and precision, allowing users to produce visuals that closely match their specified parameters. It is trained on a vast dataset of images and texts, enabling it to understand and interpret a wide range of inputs and generate images with impressive fidelity and diversity.
 
@@ -13,6 +13,10 @@ Despite its capabilities, DALL-E 3 has several limitations. The model's outputs 
 > Alex: *"DALL-E 3 is an excellent image generation tool for product design, vehicle design, house design and much more."*
 
 > *"Some images need to be photoshopped."*
+
+#
+
+![DALL-E 3](https://github.com/sourceduty/DALL-E_3/assets/123030236/b08f1e54-fb09-4b96-b195-549eb8591c00)
 
 #
 ### Related Links
