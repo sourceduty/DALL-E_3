@@ -54,7 +54,7 @@ This nuanced approach ensures compliance with guidelines while avoiding overt re
 #
 ### Error Communication
 
-> "*DALL-E 3 indirectly communicates to the user using errors.*"
+> Alex: "*DALL-E 3 indirectly communicates to the user using errors.*"
 
 ChatGPT said:
 
