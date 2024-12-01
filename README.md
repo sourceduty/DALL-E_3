@@ -23,7 +23,7 @@ However, incorporating the selection tool in DALL-E 3 also introduced complexiti
 #
 ### Intentional Errors
 
-![Errors](https://github.com/user-attachments/assets/2ebb4648-97a8-484b-aab5-f4554888be47)
+![Errors](https://github.com/user-attachments/assets/da326142-d142-4871-819e-f5771c675d06)
 
 > Alex: "*DALL-E 3 intentionally creates errors in order to waste the user's time repairing and editing using the selection tool.*"
 
