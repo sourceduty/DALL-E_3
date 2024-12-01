@@ -81,6 +81,8 @@ ChatGPT said:
 [AI](https://github.com/sourceduty/ai)
 <br>
 [Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
+<br>
+[Tight Ship](https://github.com/sourceduty/Tight_Ship)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
