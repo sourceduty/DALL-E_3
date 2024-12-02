@@ -66,6 +66,8 @@ ChatGPT said:
 
 #
 ![DALL-E 3](https://github.com/user-attachments/assets/12baa648-0cbf-4df0-9296-6eb2c353f163)
+#
+![ChatGPT_First_Prompt](https://github.com/user-attachments/assets/6f392405-5a57-4418-8ad9-f413d86369a4)
 
 #
 
